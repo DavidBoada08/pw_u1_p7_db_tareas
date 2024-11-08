@@ -1,0 +1,24 @@
+
+h1{
+    color: rgb(176, 245, 245); 
+            font-family: 'Bangers', cursive; 
+            text-align: center; 
+            background-color: rgb(154, 104, 201); 
+            border-radius: 10px; 
+            padding: 20px; 
+            font-size: 3em;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h2{
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+}
+button{
+    color: rgb(37, 118, 223); 
+    background-color: rgb(224, 151, 101);
+
+}
+
